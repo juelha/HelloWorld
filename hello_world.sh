@@ -23,6 +23,6 @@
 
 spack load miniconda3@4.10.3
 																					 #you can define a file path.
-srun python $HOME/Projects/HelloWorld_Cluster/hello_world.py 
+srun python $HOME/Projects/HelloWorld/hello_world.py 
 
 
